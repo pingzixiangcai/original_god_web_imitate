@@ -1,2 +1,3 @@
 # original_god_web_imitate
 大三下期末大作业 仿照原神官网制作的一款静态网站 具有多个独立界面和一些基础动态效果
+python制作 pycharm运行
